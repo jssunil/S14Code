@@ -18,16 +18,18 @@ An application that dumps one text block into a single component, however clever
 
 Your submission
 Github PR Link
-https://…
+https://github.com/theschoolofai/S14Code/pulls
 Short caption (what is this link?) — required
+Pull request containing the custom PieChart component and platform bug fixes.
 
 I tested this link in an incognito window — it's publicly accessible (not private).
 Link to your Part 2 hosted app
-https://…
+https://s14code.onrender.com/s/harness
 Short caption (what is this link?) — required
+Hosted live harness showing catalog-validated Donut/PieChart rendering.
 
 I tested this link in an incognito window — it's publicly accessible (not private).
 Your Github Username/id
 Without this above gets 0.
 
-https://…
+jssunil
